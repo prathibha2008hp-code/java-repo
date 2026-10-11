@@ -9,5 +9,9 @@ public class Predict_output {
         System.out.print("Learning");
     }
 }
-    
-
+//output:
+/*Java
+Python
+OOP Learning */
+// beacause :-
+//println() moves to a new line; print() doesn't.
